@@ -10,3 +10,12 @@ Project 2 (Scrabble Word Finder):
 Project 3 (Breeding Giant Super Rats):
 ●	Created a Python program that simulates a genetic algorithm inspired breeding program to produce giant rats for the use of a mad scientist.
 
+Guess Number (Computer):
+●	Created a Python program that runs a guessing game where the user enters a number and the computer guesses it.
+
+Guess Number (User):
+●	Created a Python program that runs a guessing game where the computer chooses a number and the user guesses it.
+
+
+
+
