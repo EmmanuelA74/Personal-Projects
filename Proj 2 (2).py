@@ -43,5 +43,4 @@ Find.sort(reverse = True, key = scrabble_score)
 for x in Find :
     print(x, ':', scrabble_score(x))
 
-## I did not do 5 and 6
 
